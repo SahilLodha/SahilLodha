@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilLodha
-- 👀 I’m interested in Web Developement.
+- 🔎 I’m interested in Web Developement.
 - 🌱 I’m currently learning BSc. CSIT.
 - :two_men_holding_hands: I’m looking to collaborate on Projects using technologies like Django, NodeJS and React
 - 📫 Reach Me via Email sahil.lodha@deerwalk.edu.np | sahil.lodha0421@gmail.com
