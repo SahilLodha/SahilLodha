@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BSc. CSIT.
 - :two_men_holding_hands: I’m looking to collaborate on Projects using technologies like Django, NodeJS and React
 - 📫 Reach Me via Email sahil.lodha@deerwalk.edu.np | sahil.lodha0421@gmail.com
-- 📫 Reach Me via Mobile 9818651541.
+- 📱 Reach Me via Mobile 9818651541.
 - 👀 I am looking for Jobs and will highly appericiate interview invites.
 
 
